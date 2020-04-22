@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dsfml_agents
+dsfml_agents.so
+dsfml_agents.dylib
+dsfml_agents.dll
+dsfml_agents.a
+dsfml_agents.lib
+dsfml_agents-test-*
+*.exe
+*.o
+*.obj
+*.lst

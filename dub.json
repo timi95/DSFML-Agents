@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Timi Ogunkeye"
+	],
+	"copyright": "Copyright © 2020, Timi Ogunkeye",
+	"dependencies": {
+		"dsfml": "~>2.1.1"
+	},
+	"description": "A port of Angular Agents",
+	"license": "proprietary",
+	"name": "dsfml_agents"
+}
