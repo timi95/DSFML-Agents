@@ -9,7 +9,7 @@ import dsfml.system;
 //
 public 	class Agent() {
 	private Vector2!float newPosition;
-	private Color circle_color;
+	private Color* circle_color;
 	private CircleShape circle;
 
 	this(){
@@ -26,6 +26,7 @@ public 	class Agent() {
 	}
 
 	public void draw(RenderWindow window) {
+		// writeln("Agent class draw() called ");
 		window.draw(this.circle);
 	}
 }
