@@ -5,8 +5,6 @@ import dsfml.system;
 
 
 
-
-//
 public 	class Agent() {
 	private Vector2!float newPosition;
 	private Color* circle_color;
